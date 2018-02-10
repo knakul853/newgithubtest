@@ -1,2 +1,2 @@
 this is another text file
-another line of text
+after deletion another line
